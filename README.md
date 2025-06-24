@@ -8,3 +8,10 @@
 # 📊 GitHub Stats 
 [![Sadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadiyaFaizan12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
